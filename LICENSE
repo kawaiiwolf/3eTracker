@@ -19,3 +19,14 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+-----------------------------------------------------------------------------
+
+Code segments include code adapted from:
+- https://gist.github.com/ericjuden/9334780
+- https://stackoverflow.com/questions/6992585/jquery-deserialize-form
+
+Stack Overflow Licensing can be found at:
+- https://meta.stackexchange.com/questions/272956/a-new-code-license-the-mit-this-time-with-attribution-required
+
+See Licenses in the /common/ folder for jQuery and jQuery UI Licensing.
